@@ -3,6 +3,6 @@ Este proyecto es una interfaz de usuario mediante la cual el usuario ingresa una
 - __Lenguaje de programación:__ Java
 - __Versión:__ JDK 14 SE
 - __Ejecutable__: ExpresionesRegulares\dist\ExpresionesRegulares.jar
-- __Documentación__: Guia de usuario, diseño de los AFDs y diagramas del sistema
+- __Documentación__: AFD\docs - Diseño de los AFDs y diagramas del sistema
 
-*Nota:* Ver la guia del usuario, diseño de AFD's y diagramas para entender la estructura del sistema y cómo usarlo
+*Nota:* Ver diseño de AFD's y diagramas para entender la estructura del sistema y cómo usarlo
